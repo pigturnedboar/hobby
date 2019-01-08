@@ -1,0 +1,3 @@
+﻿  LotteryGenerator.cpp
+c:\users\roderic\source\repos\lotterygenerator\lotterygenerator\lotterygenerator.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LotteryGenerator.vcxproj -> C:\Users\Roderic\source\repos\LotteryGenerator\Debug\LotteryGenerator.exe
